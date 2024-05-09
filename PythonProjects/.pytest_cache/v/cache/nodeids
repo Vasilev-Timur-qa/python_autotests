@@ -1,0 +1,4 @@
+[
+  "RequestsTest/tests/test_pokemon.py::test_status_code",
+  "RequestsTest/tests/test_pokemon.py::test_trainer_name"
+]
